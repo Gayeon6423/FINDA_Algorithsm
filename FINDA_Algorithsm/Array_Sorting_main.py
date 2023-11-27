@@ -14,5 +14,5 @@ if __name__ == "__main__":
     array_to_type_sort = array_to_sort.copy()
     # 원본 데이터를 복사하여 새로운 배열 생성
     type_to_sort.sorting(data = array_to_type_sort)
-    # 선택 정렬된 배열을 반환
+    # 정렬된 배열을 반환
     print(array_to_type_sort)
